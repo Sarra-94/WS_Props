@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.title {
+  text-align: center;
+  color: rgb(19, 19, 218);
+  font-size: 200%;
+  margin: 4%;
+}
