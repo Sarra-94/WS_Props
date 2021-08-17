@@ -1,10 +1,10 @@
 import React from "react";
-
+import "./Footer.css";
 const Footer = () => {
   return (
-    <p style={{ textAlign: "center", color: "blue", bottom: 0 }}>
-      Copyright session July_2021
-    </p>
+    <footer className="footer">
+      <h3> Copyright session July_2021</h3>
+    </footer>
   );
 };
 

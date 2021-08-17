@@ -1,0 +1,14 @@
+.footer {
+  color: blue;
+  height: 50px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
+footer h3 {
+  text-align: center;
+}
